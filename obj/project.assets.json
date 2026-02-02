@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\Coursera\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectUniqueName": "E:\\User-Management-API\\UserManagementAPI.csproj",
       "projectName": "UserManagementAPI",
-      "projectPath": "D:\\ASP\\Coursera\\UserManagementAPI\\UserManagementAPI.csproj",
+      "projectPath": "E:\\User-Management-API\\UserManagementAPI.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\Coursera\\UserManagementAPI\\obj\\",
+      "outputPath": "E:\\User-Management-API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
